@@ -1,0 +1,833 @@
+[22-Jul-2020 19:01:15 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[22-Jul-2020 19:01:15 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/includes/navbar.php on line 117
+[22-Jul-2020 19:01:15 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 102
+[22-Jul-2020 19:01:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function queryy() in /home/ashabul2/public_html/admin/TampilAbsensi.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 103
+[22-Jul-2020 21:46:04 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[22-Jul-2020 22:07:38 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/datahakakses.php on line 44
+[22-Jul-2020 22:07:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[22-Jul-2020 22:07:38 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/datahakakses.php on line 52
+[22-Jul-2020 22:07:38 Asia/Jakarta] PHP Notice:  Undefined variable: akses in /home/ashabul2/public_html/admin/datahakakses.php on line 65
+[22-Jul-2020 22:07:38 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ashabul2/public_html/admin/datahakakses.php on line 65
+[23-Jul-2020 04:59:00 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 04:59:00 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/includes/navbar.php on line 118
+[23-Jul-2020 04:59:00 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/datahakakses.php on line 44
+[23-Jul-2020 04:59:00 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[23-Jul-2020 04:59:00 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/datahakakses.php on line 52
+[23-Jul-2020 04:59:00 Asia/Jakarta] PHP Notice:  Undefined variable: akses in /home/ashabul2/public_html/admin/datahakakses.php on line 67
+[23-Jul-2020 04:59:00 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ashabul2/public_html/admin/datahakakses.php on line 67
+[23-Jul-2020 04:59:07 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 04:59:12 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/datahakakses.php on line 44
+[23-Jul-2020 04:59:12 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[23-Jul-2020 04:59:12 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/datahakakses.php on line 52
+[23-Jul-2020 04:59:12 Asia/Jakarta] PHP Notice:  Undefined variable: akses in /home/ashabul2/public_html/admin/datahakakses.php on line 67
+[23-Jul-2020 04:59:12 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ashabul2/public_html/admin/datahakakses.php on line 67
+[23-Jul-2020 04:59:52 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/datahakakses.php on line 44
+[23-Jul-2020 04:59:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[23-Jul-2020 04:59:52 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/datahakakses.php on line 52
+[23-Jul-2020 05:06:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function queryy() in /home/ashabul2/public_html/admin/datasantricoba.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/ashabul2/public_html/admin/datasantricoba.php on line 45
+[23-Jul-2020 05:08:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function queryy() in /home/ashabul2/public_html/admin/datasantricoba.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/ashabul2/public_html/admin/datasantricoba.php on line 45
+[23-Jul-2020 05:09:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function queryy() in /home/ashabul2/public_html/admin/Edit_datasantrinew.php:281
+Stack trace:
+#0 {main}
+  thrown in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 281
+[23-Jul-2020 05:10:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function queryy() in /home/ashabul2/public_html/admin/TampilAbsensi.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 103
+[23-Jul-2020 05:13:34 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 201
+[23-Jul-2020 05:13:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function queryy() in /home/ashabul2/public_html/admin/Edit_datasantrinew.php:281
+Stack trace:
+#0 {main}
+  thrown in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 281
+[23-Jul-2020 05:15:18 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 05:20:10 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 05:20:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 91
+[23-Jul-2020 05:21:19 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/view.php on line 5
+[23-Jul-2020 05:21:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/view.php on line 26
+[23-Jul-2020 05:23:05 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 10
+[23-Jul-2020 05:23:05 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[23-Jul-2020 05:23:05 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[23-Jul-2020 05:24:08 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/view.php on line 5
+[23-Jul-2020 05:24:08 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/view.php on line 26
+[23-Jul-2020 05:24:09 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 10
+[23-Jul-2020 05:24:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[23-Jul-2020 05:24:09 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[23-Jul-2020 05:24:21 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[23-Jul-2020 05:24:21 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 12
+[23-Jul-2020 05:24:21 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[23-Jul-2020 05:24:21 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 201
+[23-Jul-2020 05:24:24 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[23-Jul-2020 05:24:24 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[23-Jul-2020 05:24:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[23-Jul-2020 05:24:31 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPelanggaran.php on line 12
+[23-Jul-2020 05:24:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[23-Jul-2020 05:24:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[23-Jul-2020 05:24:33 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 12
+[23-Jul-2020 05:24:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[23-Jul-2020 05:24:34 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[23-Jul-2020 05:24:34 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilRaportRamadhan.php on line 12
+[23-Jul-2020 05:24:34 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[23-Jul-2020 05:24:36 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[23-Jul-2020 05:24:36 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 10
+[23-Jul-2020 05:24:59 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[23-Jul-2020 05:24:59 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[23-Jul-2020 05:25:00 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/view.php on line 5
+[23-Jul-2020 05:25:00 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/view.php on line 26
+[23-Jul-2020 05:27:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[23-Jul-2020 05:27:19 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 10
+[23-Jul-2020 05:27:30 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 201
+[23-Jul-2020 05:27:48 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 201
+[23-Jul-2020 05:28:04 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 05:33:22 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 201
+[23-Jul-2020 05:38:38 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 201
+[23-Jul-2020 05:55:42 Asia/Jakarta] PHP Notice:  Undefined index: penanggung_jawab in /home/ashabul2/public_html/admin/functions.php on line 293
+[23-Jul-2020 05:56:58 Asia/Jakarta] PHP Notice:  Undefined variable: penanggung_jawab in /home/ashabul2/public_html/admin/functions.php on line 303
+[23-Jul-2020 05:57:01 Asia/Jakarta] PHP Notice:  Undefined variable: penanggung_jawab in /home/ashabul2/public_html/admin/functions.php on line 303
+[23-Jul-2020 05:57:18 Asia/Jakarta] PHP Notice:  Undefined variable: penanggung_jawab in /home/ashabul2/public_html/admin/functions.php on line 303
+[23-Jul-2020 08:19:13 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 08:19:13 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/includes/navbar.php on line 118
+[23-Jul-2020 08:19:13 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 280
+[23-Jul-2020 08:19:18 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 08:19:31 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 201
+[23-Jul-2020 08:19:53 Asia/Jakarta] PHP Notice:  Undefined index: tanggal_absen in /home/ashabul2/public_html/admin/functions.php on line 75
+[23-Jul-2020 08:21:27 Asia/Jakarta] PHP Notice:  Undefined index: tanggal_absen in /home/ashabul2/public_html/admin/functions.php on line 75
+[23-Jul-2020 08:21:54 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 201
+[23-Jul-2020 08:23:54 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 202
+[23-Jul-2020 08:26:38 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 202
+[23-Jul-2020 08:26:49 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 202
+[23-Jul-2020 08:27:37 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 163
+[23-Jul-2020 08:27:37 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 201
+[23-Jul-2020 08:28:18 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 163
+[23-Jul-2020 08:28:18 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 201
+[23-Jul-2020 08:28:56 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 163
+[23-Jul-2020 08:28:56 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 200
+[23-Jul-2020 08:28:57 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 163
+[23-Jul-2020 08:28:57 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 200
+[23-Jul-2020 08:28:59 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 163
+[23-Jul-2020 08:28:59 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 200
+[23-Jul-2020 08:29:01 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 163
+[23-Jul-2020 08:29:01 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 200
+[23-Jul-2020 08:29:03 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 163
+[23-Jul-2020 08:29:03 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 200
+[23-Jul-2020 08:29:03 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 163
+[23-Jul-2020 08:29:03 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 200
+[23-Jul-2020 08:29:28 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 163
+[23-Jul-2020 08:29:28 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 200
+[23-Jul-2020 08:29:30 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 163
+[23-Jul-2020 08:29:30 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 200
+[23-Jul-2020 08:29:35 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 163
+[23-Jul-2020 08:29:35 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 200
+[23-Jul-2020 08:31:12 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 161
+[23-Jul-2020 08:31:12 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 197
+[23-Jul-2020 08:49:24 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/datahakakses.php on line 44
+[23-Jul-2020 08:49:24 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[23-Jul-2020 08:49:24 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/datahakakses.php on line 52
+[23-Jul-2020 09:29:36 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 09:29:36 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/includes/navbar.php on line 118
+[23-Jul-2020 09:29:36 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/datahakakses.php on line 44
+[23-Jul-2020 09:29:36 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[23-Jul-2020 09:29:36 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/datahakakses.php on line 52
+[23-Jul-2020 09:29:42 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 09:33:36 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 204
+[23-Jul-2020 09:33:40 Asia/Jakarta] PHP Notice:  Undefined variable: id_pembayar in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 205
+[23-Jul-2020 09:33:47 Asia/Jakarta] PHP Notice:  Undefined variable: id_raportramadhan in /home/ashabul2/public_html/admin/TampilRaportRamadhan.php on line 200
+[23-Jul-2020 09:33:50 Asia/Jakarta] PHP Notice:  Undefined variable: id_pembayar in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 205
+[23-Jul-2020 09:34:16 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 09:34:22 Asia/Jakarta] PHP Notice:  Undefined variable: id_pembayar in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 205
+[23-Jul-2020 09:58:09 Asia/Jakarta] PHP Notice:  Undefined variable: id_raportramadhan in /home/ashabul2/public_html/admin/TampilRaportRamadhan.php on line 200
+[23-Jul-2020 09:58:22 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/TampilPelanggaran.php on line 171
+[23-Jul-2020 09:59:22 Asia/Jakarta] PHP Notice:  Undefined variable: id_pembayar in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 205
+[23-Jul-2020 09:59:37 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 170
+[23-Jul-2020 11:37:48 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 11:39:14 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 11:39:21 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 11:39:34 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 170
+[23-Jul-2020 11:40:23 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 170
+[23-Jul-2020 11:40:23 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 170
+[23-Jul-2020 11:40:59 Asia/Jakarta] PHP Notice:  Undefined variable: id_pembayar in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 205
+[23-Jul-2020 11:42:46 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 170
+[23-Jul-2020 11:46:37 Asia/Jakarta] PHP Notice:  Undefined variable: id_pembayar in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 205
+[23-Jul-2020 11:47:00 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/TampilPelanggaran.php on line 171
+[23-Jul-2020 11:47:13 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 204
+[23-Jul-2020 18:00:26 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 19:20:05 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 19:20:05 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/includes/navbar.php on line 118
+[23-Jul-2020 19:20:05 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/datasantricoba.php on line 44
+[23-Jul-2020 19:53:30 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 19:53:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/ashabul2/public_html/admin/datasantricoba.php on line 117
+[23-Jul-2020 20:27:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/ashabul2/public_html/admin/caridatasantri.php on line 91
+[23-Jul-2020 20:28:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function cari() in /home/ashabul2/public_html/admin/caridatasantri.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/ashabul2/public_html/admin/caridatasantri.php on line 36
+[23-Jul-2020 20:29:40 Asia/Jakarta] PHP Notice:  Undefined variable: mysqli in /home/ashabul2/public_html/admin/caridatasantri.php on line 72
+[23-Jul-2020 20:29:40 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ashabul2/public_html/admin/caridatasantri.php on line 72
+[23-Jul-2020 20:29:40 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ashabul2/public_html/admin/caridatasantri.php on line 74
+[23-Jul-2020 20:29:40 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/caridatasantri.php on line 114
+[23-Jul-2020 20:29:48 Asia/Jakarta] PHP Notice:  Undefined variable: mysqli in /home/ashabul2/public_html/admin/caridatasantri.php on line 72
+[23-Jul-2020 20:29:48 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ashabul2/public_html/admin/caridatasantri.php on line 72
+[23-Jul-2020 20:29:48 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ashabul2/public_html/admin/caridatasantri.php on line 74
+[23-Jul-2020 20:29:48 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/caridatasantri.php on line 114
+[23-Jul-2020 20:31:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function cari() in /home/ashabul2/public_html/admin/caridatasantri.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/ashabul2/public_html/admin/caridatasantri.php on line 36
+[23-Jul-2020 20:34:00 Asia/Jakarta] PHP Notice:  Undefined variable: mysqli in /home/ashabul2/public_html/admin/caridatasantri.php on line 70
+[23-Jul-2020 20:34:00 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ashabul2/public_html/admin/caridatasantri.php on line 70
+[23-Jul-2020 20:34:00 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ashabul2/public_html/admin/caridatasantri.php on line 72
+[23-Jul-2020 20:34:00 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/caridatasantri.php on line 112
+[23-Jul-2020 20:34:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function query() in /home/ashabul2/public_html/admin/caridatasantri.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ashabul2/public_html/admin/caridatasantri.php on line 37
+[23-Jul-2020 20:38:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function query() in /home/ashabul2/public_html/admin/caridatasantri.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/ashabul2/public_html/admin/caridatasantri.php on line 42
+[23-Jul-2020 20:38:47 Asia/Jakarta] PHP Notice:  Undefined variable: mysqli in /home/ashabul2/public_html/admin/caridatasantri.php on line 75
+[23-Jul-2020 20:38:47 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ashabul2/public_html/admin/caridatasantri.php on line 75
+[23-Jul-2020 20:38:47 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ashabul2/public_html/admin/caridatasantri.php on line 77
+[23-Jul-2020 20:38:47 Asia/Jakarta] PHP Notice:  Undefined variable: row in /home/ashabul2/public_html/admin/caridatasantri.php on line 117
+[23-Jul-2020 20:38:57 Asia/Jakarta] PHP Notice:  Undefined variable: result in /home/ashabul2/public_html/admin/caridatasantri.php on line 77
+[23-Jul-2020 20:38:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ashabul2/public_html/admin/caridatasantri.php on line 77
+[23-Jul-2020 20:38:57 Asia/Jakarta] PHP Notice:  Undefined variable: row in /home/ashabul2/public_html/admin/caridatasantri.php on line 117
+[23-Jul-2020 20:39:04 Asia/Jakarta] PHP Notice:  Undefined variable: mysqli in /home/ashabul2/public_html/admin/caridatasantri.php on line 75
+[23-Jul-2020 20:39:04 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ashabul2/public_html/admin/caridatasantri.php on line 75
+[23-Jul-2020 20:39:04 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ashabul2/public_html/admin/caridatasantri.php on line 77
+[23-Jul-2020 20:39:04 Asia/Jakarta] PHP Notice:  Undefined variable: row in /home/ashabul2/public_html/admin/caridatasantri.php on line 117
+[23-Jul-2020 20:39:34 Asia/Jakarta] PHP Notice:  Undefined variable: mysqli in /home/ashabul2/public_html/admin/caridatasantri.php on line 75
+[23-Jul-2020 20:39:34 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ashabul2/public_html/admin/caridatasantri.php on line 75
+[23-Jul-2020 20:39:34 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ashabul2/public_html/admin/caridatasantri.php on line 77
+[23-Jul-2020 20:39:34 Asia/Jakarta] PHP Notice:  Undefined variable: row in /home/ashabul2/public_html/admin/caridatasantri.php on line 117
+[23-Jul-2020 20:40:10 Asia/Jakarta] PHP Notice:  Undefined variable: mysqli in /home/ashabul2/public_html/admin/caridatasantri.php on line 75
+[23-Jul-2020 20:40:10 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ashabul2/public_html/admin/caridatasantri.php on line 75
+[23-Jul-2020 20:40:10 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ashabul2/public_html/admin/caridatasantri.php on line 77
+[23-Jul-2020 20:40:10 Asia/Jakarta] PHP Notice:  Undefined variable: row in /home/ashabul2/public_html/admin/caridatasantri.php on line 117
+[23-Jul-2020 20:42:15 Asia/Jakarta] PHP Notice:  Undefined index: nis in /home/ashabul2/public_html/admin/caridatasantri.php on line 84
+[23-Jul-2020 20:42:15 Asia/Jakarta] PHP Notice:  Undefined index: nama_santri in /home/ashabul2/public_html/admin/caridatasantri.php on line 85
+[23-Jul-2020 20:42:15 Asia/Jakarta] PHP Notice:  Undefined index: jeniskelamin in /home/ashabul2/public_html/admin/caridatasantri.php on line 86
+[23-Jul-2020 20:42:15 Asia/Jakarta] PHP Notice:  Undefined index: tempatlahir in /home/ashabul2/public_html/admin/caridatasantri.php on line 87
+[23-Jul-2020 20:42:15 Asia/Jakarta] PHP Notice:  Undefined index: tanggallahir in /home/ashabul2/public_html/admin/caridatasantri.php on line 88
+[23-Jul-2020 20:42:15 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/caridatasantri.php on line 90
+[23-Jul-2020 20:42:15 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/caridatasantri.php on line 119
+[23-Jul-2020 20:42:48 Asia/Jakarta] PHP Notice:  Undefined index: nis in /home/ashabul2/public_html/admin/caridatasantri.php on line 84
+[23-Jul-2020 20:42:48 Asia/Jakarta] PHP Notice:  Undefined index: nama_santri in /home/ashabul2/public_html/admin/caridatasantri.php on line 85
+[23-Jul-2020 20:42:48 Asia/Jakarta] PHP Notice:  Undefined index: jeniskelamin in /home/ashabul2/public_html/admin/caridatasantri.php on line 86
+[23-Jul-2020 20:42:48 Asia/Jakarta] PHP Notice:  Undefined index: tempatlahir in /home/ashabul2/public_html/admin/caridatasantri.php on line 87
+[23-Jul-2020 20:42:48 Asia/Jakarta] PHP Notice:  Undefined index: tanggallahir in /home/ashabul2/public_html/admin/caridatasantri.php on line 88
+[23-Jul-2020 20:42:48 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/caridatasantri.php on line 90
+[23-Jul-2020 20:42:48 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/caridatasantri.php on line 119
+[23-Jul-2020 21:10:56 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 21:10:56 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/includes/navbar.php on line 118
+[23-Jul-2020 21:10:56 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/datasantricoba.php on line 41
+[23-Jul-2020 21:11:01 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 21:16:48 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 21:23:32 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/datahakakses.php on line 44
+[23-Jul-2020 21:23:32 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[23-Jul-2020 21:23:32 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/datahakakses.php on line 52
+[23-Jul-2020 21:24:36 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/datahakakses.php on line 44
+[23-Jul-2020 21:24:36 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[23-Jul-2020 21:24:38 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/datahakakses.php on line 44
+[23-Jul-2020 21:24:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[23-Jul-2020 21:26:25 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 204
+[23-Jul-2020 21:27:51 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 160
+[23-Jul-2020 21:28:08 Asia/Jakarta] PHP Notice:  Undefined index: id_akses in /home/ashabul2/public_html/admin/datahakakses.php on line 68
+[23-Jul-2020 21:28:08 Asia/Jakarta] PHP Notice:  Undefined index: nama_admin in /home/ashabul2/public_html/admin/datahakakses.php on line 72
+[23-Jul-2020 21:28:08 Asia/Jakarta] PHP Notice:  Undefined index: tanggal_berakhir in /home/ashabul2/public_html/admin/datahakakses.php on line 73
+[23-Jul-2020 21:28:08 Asia/Jakarta] PHP Notice:  Undefined index: id_akses in /home/ashabul2/public_html/admin/datahakakses.php on line 68
+[23-Jul-2020 21:28:08 Asia/Jakarta] PHP Notice:  Undefined index: nama_admin in /home/ashabul2/public_html/admin/datahakakses.php on line 72
+[23-Jul-2020 21:28:08 Asia/Jakarta] PHP Notice:  Undefined index: tanggal_berakhir in /home/ashabul2/public_html/admin/datahakakses.php on line 73
+[23-Jul-2020 21:28:08 Asia/Jakarta] PHP Notice:  Undefined index: id_akses in /home/ashabul2/public_html/admin/datahakakses.php on line 68
+[23-Jul-2020 21:28:08 Asia/Jakarta] PHP Notice:  Undefined index: nama_admin in /home/ashabul2/public_html/admin/datahakakses.php on line 72
+[23-Jul-2020 21:28:08 Asia/Jakarta] PHP Notice:  Undefined index: tanggal_berakhir in /home/ashabul2/public_html/admin/datahakakses.php on line 73
+[23-Jul-2020 21:28:08 Asia/Jakarta] PHP Notice:  Undefined index: id_akses in /home/ashabul2/public_html/admin/datahakakses.php on line 68
+[23-Jul-2020 21:28:08 Asia/Jakarta] PHP Notice:  Undefined index: nama_admin in /home/ashabul2/public_html/admin/datahakakses.php on line 72
+[23-Jul-2020 21:28:08 Asia/Jakarta] PHP Notice:  Undefined index: tanggal_berakhir in /home/ashabul2/public_html/admin/datahakakses.php on line 73
+[23-Jul-2020 21:28:08 Asia/Jakarta] PHP Notice:  Undefined index: id_akses in /home/ashabul2/public_html/admin/datahakakses.php on line 68
+[23-Jul-2020 21:28:08 Asia/Jakarta] PHP Notice:  Undefined index: nama_admin in /home/ashabul2/public_html/admin/datahakakses.php on line 72
+[23-Jul-2020 21:28:08 Asia/Jakarta] PHP Notice:  Undefined index: tanggal_berakhir in /home/ashabul2/public_html/admin/datahakakses.php on line 73
+[23-Jul-2020 21:28:08 Asia/Jakarta] PHP Notice:  Undefined index: id_akses in /home/ashabul2/public_html/admin/datahakakses.php on line 68
+[23-Jul-2020 21:28:08 Asia/Jakarta] PHP Notice:  Undefined index: nama_admin in /home/ashabul2/public_html/admin/datahakakses.php on line 72
+[23-Jul-2020 21:28:08 Asia/Jakarta] PHP Notice:  Undefined index: tanggal_berakhir in /home/ashabul2/public_html/admin/datahakakses.php on line 73
+[23-Jul-2020 21:28:21 Asia/Jakarta] PHP Notice:  Undefined variable: id_pembayar in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 205
+[23-Jul-2020 21:29:19 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 197
+[23-Jul-2020 21:29:22 Asia/Jakarta] PHP Notice:  Undefined variable: id_pembayar in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 205
+[23-Jul-2020 21:29:24 Asia/Jakarta] PHP Notice:  Undefined index: id_akses in /home/ashabul2/public_html/admin/datahakakses.php on line 68
+[23-Jul-2020 21:29:24 Asia/Jakarta] PHP Notice:  Undefined index: tanggal_berakhir in /home/ashabul2/public_html/admin/datahakakses.php on line 73
+[23-Jul-2020 21:29:24 Asia/Jakarta] PHP Notice:  Undefined index: id_akses in /home/ashabul2/public_html/admin/datahakakses.php on line 68
+[23-Jul-2020 21:29:24 Asia/Jakarta] PHP Notice:  Undefined index: tanggal_berakhir in /home/ashabul2/public_html/admin/datahakakses.php on line 73
+[23-Jul-2020 21:29:24 Asia/Jakarta] PHP Notice:  Undefined index: id_akses in /home/ashabul2/public_html/admin/datahakakses.php on line 68
+[23-Jul-2020 21:29:24 Asia/Jakarta] PHP Notice:  Undefined index: tanggal_berakhir in /home/ashabul2/public_html/admin/datahakakses.php on line 73
+[23-Jul-2020 21:29:24 Asia/Jakarta] PHP Notice:  Undefined index: id_akses in /home/ashabul2/public_html/admin/datahakakses.php on line 68
+[23-Jul-2020 21:29:24 Asia/Jakarta] PHP Notice:  Undefined index: tanggal_berakhir in /home/ashabul2/public_html/admin/datahakakses.php on line 73
+[23-Jul-2020 21:29:24 Asia/Jakarta] PHP Notice:  Undefined index: id_akses in /home/ashabul2/public_html/admin/datahakakses.php on line 68
+[23-Jul-2020 21:29:24 Asia/Jakarta] PHP Notice:  Undefined index: tanggal_berakhir in /home/ashabul2/public_html/admin/datahakakses.php on line 73
+[23-Jul-2020 21:29:24 Asia/Jakarta] PHP Notice:  Undefined index: id_akses in /home/ashabul2/public_html/admin/datahakakses.php on line 68
+[23-Jul-2020 21:29:24 Asia/Jakarta] PHP Notice:  Undefined index: tanggal_berakhir in /home/ashabul2/public_html/admin/datahakakses.php on line 73
+[23-Jul-2020 21:29:31 Asia/Jakarta] PHP Notice:  Undefined variable: id_pembayar in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 205
+[23-Jul-2020 21:29:32 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 197
+[23-Jul-2020 21:29:34 Asia/Jakarta] PHP Notice:  Undefined variable: id_pembayar in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 205
+[23-Jul-2020 21:29:36 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 197
+[23-Jul-2020 21:30:08 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 197
+[23-Jul-2020 21:30:28 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 196
+[23-Jul-2020 21:31:38 Asia/Jakarta] PHP Notice:  Undefined index: id_absen in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 196
+[23-Jul-2020 21:34:19 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 21:34:31 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/TampilPelanggaran.php on line 171
+[23-Jul-2020 21:34:49 Asia/Jakarta] PHP Notice:  Undefined variable: id_pembayar in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 205
+[23-Jul-2020 21:34:51 Asia/Jakarta] PHP Notice:  Undefined variable: id_pelanggar in /home/ashabul2/public_html/admin/TampilPelanggaran.php on line 205
+[23-Jul-2020 21:36:21 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 21:36:29 Asia/Jakarta] PHP Notice:  Undefined variable: id_pembayar in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 205
+[23-Jul-2020 21:36:29 Asia/Jakarta] PHP Notice:  Undefined variable: id_pelanggar in /home/ashabul2/public_html/admin/TampilPelanggaran.php on line 205
+[23-Jul-2020 21:36:38 Asia/Jakarta] PHP Notice:  Undefined variable: id_abs in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 196
+[23-Jul-2020 21:36:54 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 21:37:00 Asia/Jakarta] PHP Notice:  Undefined variable: id_pembayar in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 205
+[23-Jul-2020 21:37:07 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 170
+[23-Jul-2020 21:37:18 Asia/Jakarta] PHP Notice:  Undefined variable: id_pembayar in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 205
+[23-Jul-2020 21:38:21 Asia/Jakarta] PHP Notice:  Undefined index: id_akses in /home/ashabul2/public_html/admin/datahakakses.php on line 68
+[23-Jul-2020 21:38:21 Asia/Jakarta] PHP Notice:  Undefined index: expired_at in /home/ashabul2/public_html/admin/datahakakses.php on line 73
+[23-Jul-2020 21:38:21 Asia/Jakarta] PHP Notice:  Undefined index: id_akses in /home/ashabul2/public_html/admin/datahakakses.php on line 68
+[23-Jul-2020 21:38:21 Asia/Jakarta] PHP Notice:  Undefined index: expired_at in /home/ashabul2/public_html/admin/datahakakses.php on line 73
+[23-Jul-2020 21:38:21 Asia/Jakarta] PHP Notice:  Undefined index: id_akses in /home/ashabul2/public_html/admin/datahakakses.php on line 68
+[23-Jul-2020 21:38:21 Asia/Jakarta] PHP Notice:  Undefined index: expired_at in /home/ashabul2/public_html/admin/datahakakses.php on line 73
+[23-Jul-2020 21:38:21 Asia/Jakarta] PHP Notice:  Undefined index: id_akses in /home/ashabul2/public_html/admin/datahakakses.php on line 68
+[23-Jul-2020 21:38:21 Asia/Jakarta] PHP Notice:  Undefined index: expired_at in /home/ashabul2/public_html/admin/datahakakses.php on line 73
+[23-Jul-2020 21:38:21 Asia/Jakarta] PHP Notice:  Undefined index: id_akses in /home/ashabul2/public_html/admin/datahakakses.php on line 68
+[23-Jul-2020 21:38:21 Asia/Jakarta] PHP Notice:  Undefined index: expired_at in /home/ashabul2/public_html/admin/datahakakses.php on line 73
+[23-Jul-2020 21:38:21 Asia/Jakarta] PHP Notice:  Undefined index: id_akses in /home/ashabul2/public_html/admin/datahakakses.php on line 68
+[23-Jul-2020 21:38:21 Asia/Jakarta] PHP Notice:  Undefined index: expired_at in /home/ashabul2/public_html/admin/datahakakses.php on line 73
+[23-Jul-2020 21:41:01 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 162
+[23-Jul-2020 21:45:59 Asia/Jakarta] PHP Notice:  Undefined variable: id_pelanggar in /home/ashabul2/public_html/admin/TampilPelanggaran.php on line 205
+[23-Jul-2020 21:46:00 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 162
+[23-Jul-2020 21:46:03 Asia/Jakarta] PHP Notice:  Undefined variable: id_pembayar in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 197
+[23-Jul-2020 21:46:03 Asia/Jakarta] PHP Notice:  Undefined variable: id_santri in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 197
+[23-Jul-2020 21:55:39 Asia/Jakarta] PHP Notice:  Undefined index: nama_akses in /home/ashabul2/public_html/admin/edit_datahakakses.php on line 65
+[23-Jul-2020 21:55:39 Asia/Jakarta] PHP Notice:  Undefined index: nama_admin in /home/ashabul2/public_html/admin/edit_datahakakses.php on line 74
+[23-Jul-2020 21:55:39 Asia/Jakarta] PHP Notice:  Undefined index: tanggalberakhir in /home/ashabul2/public_html/admin/edit_datahakakses.php on line 83
+[23-Jul-2020 21:56:28 Asia/Jakarta] PHP Notice:  Undefined index: nama_akses in /home/ashabul2/public_html/admin/edit_datahakakses.php on line 65
+[23-Jul-2020 21:57:55 Asia/Jakarta] PHP Notice:  Undefined index: nama_akses in /home/ashabul2/public_html/admin/edit_datahakakses.php on line 65
+[23-Jul-2020 21:58:04 Asia/Jakarta] PHP Notice:  Undefined index: nama_akses in /home/ashabul2/public_html/admin/edit_datahakakses.php on line 65
+[23-Jul-2020 22:00:59 Asia/Jakarta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ashabul2/public_html/admin/includes/navbar.php on line 2
+[23-Jul-2020 22:00:59 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/ashabul2/public_html/admin/includes/navbar.php on line 47
+[23-Jul-2020 22:01:01 Asia/Jakarta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ashabul2/public_html/admin/includes/navbar.php on line 2
+[23-Jul-2020 22:01:01 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/ashabul2/public_html/admin/includes/navbar.php on line 47
+[23-Jul-2020 22:01:16 Asia/Jakarta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ashabul2/public_html/admin/includes/navbar.php on line 2
+[23-Jul-2020 22:01:16 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/ashabul2/public_html/admin/includes/navbar.php on line 47
+[23-Jul-2020 22:01:20 Asia/Jakarta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ashabul2/public_html/admin/includes/navbar.php on line 2
+[23-Jul-2020 22:01:20 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/ashabul2/public_html/admin/includes/navbar.php on line 47
+[23-Jul-2020 22:01:22 Asia/Jakarta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ashabul2/public_html/admin/includes/navbar.php on line 2
+[23-Jul-2020 22:01:22 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/ashabul2/public_html/admin/includes/navbar.php on line 47
+[23-Jul-2020 22:01:23 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 22:01:26 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 22:01:26 Asia/Jakarta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ashabul2/public_html/admin/includes/navbar.php on line 2
+[23-Jul-2020 22:01:27 Asia/Jakarta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ashabul2/public_html/admin/includes/navbar.php on line 2
+[23-Jul-2020 22:01:27 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/ashabul2/public_html/admin/includes/navbar.php on line 47
+[23-Jul-2020 22:01:35 Asia/Jakarta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ashabul2/public_html/admin/includes/navbar.php on line 2
+[23-Jul-2020 22:01:35 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/ashabul2/public_html/admin/includes/navbar.php on line 47
+[23-Jul-2020 22:01:38 Asia/Jakarta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ashabul2/public_html/admin/includes/navbar.php on line 2
+[23-Jul-2020 22:01:38 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/ashabul2/public_html/admin/includes/navbar.php on line 47
+[23-Jul-2020 22:01:47 Asia/Jakarta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ashabul2/public_html/admin/includes/navbar.php on line 2
+[23-Jul-2020 22:01:50 Asia/Jakarta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ashabul2/public_html/admin/includes/navbar.php on line 2
+[23-Jul-2020 22:02:24 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 22:04:10 Asia/Jakarta] PHP Notice:  Undefined index: nama_akses in /home/ashabul2/public_html/admin/edit_datahakakses.php on line 65
+[23-Jul-2020 22:08:06 Asia/Jakarta] PHP Notice:  Undefined variable: id_abs in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 196
+[23-Jul-2020 22:08:07 Asia/Jakarta] PHP Notice:  Undefined variable: id_pelanggar in /home/ashabul2/public_html/admin/TampilPelanggaran.php on line 205
+[23-Jul-2020 22:08:08 Asia/Jakarta] PHP Notice:  Undefined variable: id_pembayar in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 197
+[23-Jul-2020 22:08:08 Asia/Jakarta] PHP Notice:  Undefined variable: id_santri in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 197
+[23-Jul-2020 22:08:53 Asia/Jakarta] PHP Notice:  Undefined variable: id_pembayar in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 196
+[23-Jul-2020 22:08:53 Asia/Jakarta] PHP Notice:  Undefined variable: id_santri in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 196
+[23-Jul-2020 22:08:54 Asia/Jakarta] PHP Notice:  Undefined variable: id_pelanggar in /home/ashabul2/public_html/admin/TampilPelanggaran.php on line 204
+[23-Jul-2020 22:08:56 Asia/Jakarta] PHP Notice:  Undefined variable: id_abs in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 196
+[23-Jul-2020 22:09:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ashabul2/public_html/admin/edit_datahakakses.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/ashabul2/public_html/admin/edit_datahakakses.php on line 77
+[23-Jul-2020 22:10:18 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[23-Jul-2020 22:10:18 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[23-Jul-2020 22:10:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ashabul2/public_html/admin/edit_datahakakses.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/ashabul2/public_html/admin/edit_datahakakses.php on line 78
+[23-Jul-2020 22:10:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ashabul2/public_html/admin/edit_datahakakses.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/ashabul2/public_html/admin/edit_datahakakses.php on line 78
+[23-Jul-2020 22:10:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ashabul2/public_html/admin/edit_datahakakses.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/ashabul2/public_html/admin/edit_datahakakses.php on line 78
+[23-Jul-2020 22:11:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ashabul2/public_html/admin/edit_datahakakses.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/ashabul2/public_html/admin/edit_datahakakses.php on line 78
+[23-Jul-2020 22:11:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ashabul2/public_html/admin/edit_datahakakses.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/ashabul2/public_html/admin/edit_datahakakses.php on line 78
+[23-Jul-2020 22:11:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ashabul2/public_html/admin/edit_datahakakses.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/ashabul2/public_html/admin/edit_datahakakses.php on line 78
+[23-Jul-2020 22:14:17 Asia/Jakarta] PHP Notice:  Undefined variable: id_abs in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 196
+[23-Jul-2020 22:14:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/ashabul2/public_html/admin/jadwal.php on line 71
+[23-Jul-2020 22:15:32 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[23-Jul-2020 22:15:32 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[23-Jul-2020 22:16:04 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/upload.php on line 4
+[23-Jul-2020 22:16:06 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 10
+[23-Jul-2020 22:16:06 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[23-Jul-2020 22:16:06 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[23-Jul-2020 22:17:46 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 22:31:57 Asia/Jakarta] PHP Notice:  Undefined index: id_akses in /home/ashabul2/public_html/admin/functions.php on line 446
+[23-Jul-2020 22:31:57 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/ashabul2/public_html/admin/functions.php on line 447
+[23-Jul-2020 22:32:22 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[23-Jul-2020 22:32:22 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[23-Jul-2020 22:33:12 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/ashabul2/public_html/admin/functions.php on line 447
+[23-Jul-2020 22:33:26 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[23-Jul-2020 22:33:26 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[23-Jul-2020 22:34:25 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[23-Jul-2020 22:34:25 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[23-Jul-2020 22:35:33 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[23-Jul-2020 22:35:33 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[23-Jul-2020 22:37:04 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/ashabul2/public_html/admin/functions.php on line 447
+[23-Jul-2020 22:37:29 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[23-Jul-2020 22:37:29 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[23-Jul-2020 22:37:50 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/upload.php on line 4
+[23-Jul-2020 22:37:50 Asia/Jakarta] PHP Warning:  move_uploaded_file(uploads/16645-jadwal-piket.docx): failed to open stream: No such file or directory in /home/ashabul2/public_html/admin/upload.php on line 25
+[23-Jul-2020 22:37:50 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php96kW6S' to 'uploads/16645-jadwal-piket.docx' in /home/ashabul2/public_html/admin/upload.php on line 25
+[23-Jul-2020 22:37:55 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 10
+[23-Jul-2020 22:37:55 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[23-Jul-2020 22:37:55 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[23-Jul-2020 22:39:09 Asia/Jakarta] PHP Notice:  Undefined variable: id_pelanggar in /home/ashabul2/public_html/admin/TampilPelanggaran.php on line 204
+[23-Jul-2020 22:39:11 Asia/Jakarta] PHP Notice:  Undefined variable: id_pembayar in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 196
+[23-Jul-2020 22:39:11 Asia/Jakarta] PHP Notice:  Undefined variable: id_santri in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 196
+[23-Jul-2020 22:39:11 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[23-Jul-2020 22:39:11 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[23-Jul-2020 22:39:13 Asia/Jakarta] PHP Notice:  Undefined variable: id_abs in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 196
+[23-Jul-2020 22:39:21 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/upload.php on line 4
+[23-Jul-2020 22:39:21 Asia/Jakarta] PHP Warning:  move_uploaded_file(uploads/54735-jadwal-piket.docx): failed to open stream: No such file or directory in /home/ashabul2/public_html/admin/upload.php on line 25
+[23-Jul-2020 22:39:21 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpQuJnk3' to 'uploads/54735-jadwal-piket.docx' in /home/ashabul2/public_html/admin/upload.php on line 25
+[23-Jul-2020 22:39:24 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[23-Jul-2020 22:39:24 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[23-Jul-2020 22:39:27 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 22:39:36 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/upload.php on line 4
+[23-Jul-2020 22:39:36 Asia/Jakarta] PHP Warning:  move_uploaded_file(uploads/86322-jadwal-piket.docx): failed to open stream: No such file or directory in /home/ashabul2/public_html/admin/upload.php on line 25
+[23-Jul-2020 22:39:36 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php591JbH' to 'uploads/86322-jadwal-piket.docx' in /home/ashabul2/public_html/admin/upload.php on line 25
+[23-Jul-2020 22:41:55 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[23-Jul-2020 22:41:55 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[23-Jul-2020 22:42:01 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[23-Jul-2020 22:42:01 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[23-Jul-2020 22:42:10 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/upload.php on line 4
+[23-Jul-2020 22:42:51 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 22:43:05 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/upload.php on line 4
+[23-Jul-2020 22:43:12 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[23-Jul-2020 22:43:12 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[23-Jul-2020 22:43:32 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/view.php on line 5
+[23-Jul-2020 22:43:32 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/view.php on line 26
+[23-Jul-2020 22:44:03 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/view.php on line 23
+[23-Jul-2020 22:44:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/view.php on line 25
+[23-Jul-2020 22:48:15 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 10
+[23-Jul-2020 22:48:15 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[23-Jul-2020 22:48:15 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[23-Jul-2020 22:48:16 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[23-Jul-2020 22:48:16 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPelanggaran.php on line 12
+[23-Jul-2020 22:48:16 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[23-Jul-2020 22:48:16 Asia/Jakarta] PHP Notice:  Undefined variable: id_pelanggar in /home/ashabul2/public_html/admin/TampilPelanggaran.php on line 204
+[23-Jul-2020 22:48:18 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[23-Jul-2020 22:48:18 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 12
+[23-Jul-2020 22:48:18 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[23-Jul-2020 22:48:18 Asia/Jakarta] PHP Notice:  Undefined variable: id_pembayar in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 196
+[23-Jul-2020 22:48:18 Asia/Jakarta] PHP Notice:  Undefined variable: id_santri in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 196
+[23-Jul-2020 22:48:22 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[23-Jul-2020 22:48:22 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[23-Jul-2020 22:48:30 Asia/Jakarta] PHP Notice:  Undefined variable: id_abs in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 196
+[23-Jul-2020 22:48:31 Asia/Jakarta] PHP Notice:  Undefined variable: id_pelanggar in /home/ashabul2/public_html/admin/TampilPelanggaran.php on line 204
+[23-Jul-2020 22:48:48 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/upload.php on line 4
+[23-Jul-2020 22:48:49 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[23-Jul-2020 22:48:49 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[23-Jul-2020 22:49:13 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/view.php on line 25
+[23-Jul-2020 22:53:19 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[23-Jul-2020 22:53:19 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[23-Jul-2020 22:53:55 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/upload.php on line 4
+[23-Jul-2020 22:58:52 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 22:58:58 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[23-Jul-2020 22:58:58 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[23-Jul-2020 23:03:18 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[23-Jul-2020 23:04:04 Asia/Jakarta] PHP Notice:  Undefined variable: id_abs in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 196
+[23-Jul-2020 23:04:05 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[23-Jul-2020 23:07:35 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[23-Jul-2020 23:07:35 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[23-Jul-2020 23:07:53 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/upload.php on line 4
+[23-Jul-2020 23:07:55 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[23-Jul-2020 23:07:55 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[23-Jul-2020 23:12:15 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/upload.php on line 4
+[23-Jul-2020 23:12:15 Asia/Jakarta] PHP Notice:  Undefined variable: sql in /home/ashabul2/public_html/admin/upload.php on line 28
+[23-Jul-2020 23:12:15 Asia/Jakarta] PHP Warning:  mysqli_query(): Empty query in /home/ashabul2/public_html/admin/upload.php on line 28
+[23-Jul-2020 23:12:17 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[23-Jul-2020 23:12:17 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[23-Jul-2020 23:14:36 Asia/Jakarta] PHP Warning:  Use of undefined constant Y - assumed 'Y' (this will throw an Error in a future version of PHP) in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 284
+[23-Jul-2020 23:14:36 Asia/Jakarta] PHP Warning:  Use of undefined constant m - assumed 'm' (this will throw an Error in a future version of PHP) in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 284
+[23-Jul-2020 23:14:36 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 284
+[23-Jul-2020 23:14:36 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 284
+[23-Jul-2020 23:14:36 Asia/Jakarta] PHP Warning:  Use of undefined constant d - assumed 'd' (this will throw an Error in a future version of PHP) in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 284
+[23-Jul-2020 23:14:36 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 284
+[23-Jul-2020 23:17:11 Asia/Jakarta] PHP Warning:  Use of undefined constant Y - assumed 'Y' (this will throw an Error in a future version of PHP) in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:11 Asia/Jakarta] PHP Warning:  Use of undefined constant m - assumed 'm' (this will throw an Error in a future version of PHP) in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:11 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:11 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:11 Asia/Jakarta] PHP Warning:  Use of undefined constant d - assumed 'd' (this will throw an Error in a future version of PHP) in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:11 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:15 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[23-Jul-2020 23:17:15 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[23-Jul-2020 23:17:28 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/upload.php on line 4
+[23-Jul-2020 23:17:28 Asia/Jakarta] PHP Notice:  Undefined variable: sql in /home/ashabul2/public_html/admin/upload.php on line 28
+[23-Jul-2020 23:17:28 Asia/Jakarta] PHP Warning:  mysqli_query(): Empty query in /home/ashabul2/public_html/admin/upload.php on line 28
+[23-Jul-2020 23:17:29 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[23-Jul-2020 23:17:29 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[23-Jul-2020 23:17:31 Asia/Jakarta] PHP Warning:  Use of undefined constant Y - assumed 'Y' (this will throw an Error in a future version of PHP) in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:31 Asia/Jakarta] PHP Warning:  Use of undefined constant m - assumed 'm' (this will throw an Error in a future version of PHP) in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:31 Asia/Jakarta] PHP Warning:  Use of undefined constant d - assumed 'd' (this will throw an Error in a future version of PHP) in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:34 Asia/Jakarta] PHP Warning:  Use of undefined constant Y - assumed 'Y' (this will throw an Error in a future version of PHP) in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:34 Asia/Jakarta] PHP Warning:  Use of undefined constant m - assumed 'm' (this will throw an Error in a future version of PHP) in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:34 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:34 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:34 Asia/Jakarta] PHP Warning:  Use of undefined constant d - assumed 'd' (this will throw an Error in a future version of PHP) in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:34 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:37 Asia/Jakarta] PHP Warning:  Use of undefined constant Y - assumed 'Y' (this will throw an Error in a future version of PHP) in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:37 Asia/Jakarta] PHP Warning:  Use of undefined constant m - assumed 'm' (this will throw an Error in a future version of PHP) in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:37 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:37 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:37 Asia/Jakarta] PHP Warning:  Use of undefined constant d - assumed 'd' (this will throw an Error in a future version of PHP) in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:37 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:39 Asia/Jakarta] PHP Warning:  Use of undefined constant Y - assumed 'Y' (this will throw an Error in a future version of PHP) in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:39 Asia/Jakarta] PHP Warning:  Use of undefined constant m - assumed 'm' (this will throw an Error in a future version of PHP) in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:39 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:39 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:39 Asia/Jakarta] PHP Warning:  Use of undefined constant d - assumed 'd' (this will throw an Error in a future version of PHP) in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:39 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:42 Asia/Jakarta] PHP Warning:  Use of undefined constant Y - assumed 'Y' (this will throw an Error in a future version of PHP) in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:42 Asia/Jakarta] PHP Warning:  Use of undefined constant m - assumed 'm' (this will throw an Error in a future version of PHP) in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:42 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:42 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:42 Asia/Jakarta] PHP Warning:  Use of undefined constant d - assumed 'd' (this will throw an Error in a future version of PHP) in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:42 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:45 Asia/Jakarta] PHP Warning:  Use of undefined constant Y - assumed 'Y' (this will throw an Error in a future version of PHP) in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:45 Asia/Jakarta] PHP Warning:  Use of undefined constant m - assumed 'm' (this will throw an Error in a future version of PHP) in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:45 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:45 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:45 Asia/Jakarta] PHP Warning:  Use of undefined constant d - assumed 'd' (this will throw an Error in a future version of PHP) in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:17:45 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:18:16 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/upload.php on line 4
+[23-Jul-2020 23:18:16 Asia/Jakarta] PHP Notice:  Undefined variable: sql in /home/ashabul2/public_html/admin/upload.php on line 28
+[23-Jul-2020 23:18:16 Asia/Jakarta] PHP Warning:  mysqli_query(): Empty query in /home/ashabul2/public_html/admin/upload.php on line 28
+[23-Jul-2020 23:18:17 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[23-Jul-2020 23:18:17 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[23-Jul-2020 23:19:13 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/upload.php on line 4
+[23-Jul-2020 23:19:13 Asia/Jakarta] PHP Notice:  Undefined variable: sql in /home/ashabul2/public_html/admin/upload.php on line 28
+[23-Jul-2020 23:19:13 Asia/Jakarta] PHP Warning:  mysqli_query(): Empty query in /home/ashabul2/public_html/admin/upload.php on line 28
+[23-Jul-2020 23:20:06 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[23-Jul-2020 23:20:06 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[23-Jul-2020 23:20:17 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/upload.php on line 4
+[23-Jul-2020 23:20:37 Asia/Jakarta] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:20:55 Asia/Jakarta] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:20:56 Asia/Jakarta] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:20:57 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/upload.php on line 30
+[23-Jul-2020 23:20:57 Asia/Jakarta] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:21:03 Asia/Jakarta] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:21:05 Asia/Jakarta] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:21:42 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/upload.php on line 4
+[23-Jul-2020 23:22:40 Asia/Jakarta] PHP Warning:  Use of undefined constant d - assumed 'd' (this will throw an Error in a future version of PHP) in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:22:40 Asia/Jakarta] PHP Warning:  Use of undefined constant m - assumed 'm' (this will throw an Error in a future version of PHP) in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:22:40 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:22:40 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:22:40 Asia/Jakarta] PHP Warning:  Use of undefined constant Y - assumed 'Y' (this will throw an Error in a future version of PHP) in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:22:40 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 279
+[23-Jul-2020 23:22:47 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[23-Jul-2020 23:22:47 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[23-Jul-2020 23:26:43 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[23-Jul-2020 23:26:43 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[23-Jul-2020 23:27:09 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[23-Jul-2020 23:27:09 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[23-Jul-2020 23:27:25 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[23-Jul-2020 23:27:25 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[23-Jul-2020 23:33:37 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[23-Jul-2020 23:33:37 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[23-Jul-2020 23:36:00 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[23-Jul-2020 23:36:00 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[23-Jul-2020 23:36:10 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[23-Jul-2020 23:36:10 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[23-Jul-2020 23:37:06 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[23-Jul-2020 23:37:06 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[23-Jul-2020 23:39:48 Asia/Jakarta] PHP Notice:  Undefined variable: id_abs in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 196
+[23-Jul-2020 23:39:50 Asia/Jakarta] PHP Notice:  Undefined variable: id_pelanggar in /home/ashabul2/public_html/admin/TampilPelanggaran.php on line 204
+[23-Jul-2020 23:41:40 Asia/Jakarta] PHP Notice:  Undefined variable: id_abs in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 196
+[23-Jul-2020 23:42:33 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 23:43:00 Asia/Jakarta] PHP Notice:  Undefined variable: tglNow in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 283
+[23-Jul-2020 23:43:04 Asia/Jakarta] PHP Notice:  Undefined variable: tglNow in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 283
+[23-Jul-2020 23:43:31 Asia/Jakarta] PHP Notice:  Undefined variable: tglNow in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 283
+[23-Jul-2020 23:43:33 Asia/Jakarta] PHP Notice:  Undefined variable: tglNow in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 283
+[23-Jul-2020 23:43:49 Asia/Jakarta] PHP Notice:  Undefined variable: tglNow in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 283
+[23-Jul-2020 23:43:56 Asia/Jakarta] PHP Notice:  Undefined variable: id_abs in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 196
+[23-Jul-2020 23:43:59 Asia/Jakarta] PHP Notice:  Undefined variable: tglNow in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 283
+[23-Jul-2020 23:53:35 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 23:53:45 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[23-Jul-2020 23:53:59 Asia/Jakarta] PHP Notice:  Undefined variable: id_pelanggar in /home/ashabul2/public_html/admin/TampilPelanggaran.php on line 204
+[23-Jul-2020 23:54:01 Asia/Jakarta] PHP Notice:  Undefined variable: id_abs in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 196
+[23-Jul-2020 23:54:01 Asia/Jakarta] PHP Notice:  Undefined variable: id_pembayar in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 196
+[23-Jul-2020 23:54:01 Asia/Jakarta] PHP Notice:  Undefined variable: id_santri in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 196
+[23-Jul-2020 23:55:59 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[24-Jul-2020 00:03:31 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[24-Jul-2020 00:03:31 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[24-Jul-2020 00:14:09 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[24-Jul-2020 00:14:09 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[24-Jul-2020 00:16:50 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[24-Jul-2020 00:16:50 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[24-Jul-2020 00:18:48 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[24-Jul-2020 00:18:48 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[24-Jul-2020 00:20:17 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[24-Jul-2020 00:20:17 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[24-Jul-2020 00:21:20 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[24-Jul-2020 00:21:24 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[24-Jul-2020 00:21:24 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[24-Jul-2020 00:23:30 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[24-Jul-2020 00:23:30 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[24-Jul-2020 00:24:54 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[24-Jul-2020 00:24:54 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[24-Jul-2020 00:25:33 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/upload.php on line 4
+[24-Jul-2020 00:25:36 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 10
+[24-Jul-2020 00:25:36 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:25:36 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 00:26:19 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/upload.php on line 4
+[24-Jul-2020 00:26:19 Asia/Jakarta] PHP Warning:  move_uploaded_file(uploads/73725-1731710143.pdf): failed to open stream: No such file or directory in /home/ashabul2/public_html/admin/upload.php on line 25
+[24-Jul-2020 00:26:19 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php4M1ssh' to 'uploads/73725-1731710143.pdf' in /home/ashabul2/public_html/admin/upload.php on line 25
+[24-Jul-2020 00:26:21 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 10
+[24-Jul-2020 00:26:21 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:26:21 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 00:27:09 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 10
+[24-Jul-2020 00:27:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:27:09 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 00:27:19 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/upload.php on line 4
+[24-Jul-2020 00:27:22 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 10
+[24-Jul-2020 00:27:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:27:22 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 00:27:25 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:27:25 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPelanggaran.php on line 12
+[24-Jul-2020 00:27:25 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:27:25 Asia/Jakarta] PHP Notice:  Undefined variable: id_pelanggar in /home/ashabul2/public_html/admin/TampilPelanggaran.php on line 204
+[24-Jul-2020 00:27:54 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/upload.php on line 4
+[24-Jul-2020 00:27:54 Asia/Jakarta] PHP Warning:  move_uploaded_file(uploads/62994-1731710015.pdf): failed to open stream: No such file or directory in /home/ashabul2/public_html/admin/upload.php on line 25
+[24-Jul-2020 00:27:54 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpaAFVgL' to 'uploads/62994-1731710015.pdf' in /home/ashabul2/public_html/admin/upload.php on line 25
+[24-Jul-2020 00:27:57 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 10
+[24-Jul-2020 00:27:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:27:57 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 00:30:46 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:30:46 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 12
+[24-Jul-2020 00:30:46 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:30:46 Asia/Jakarta] PHP Notice:  Undefined variable: id_abs in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 196
+[24-Jul-2020 00:30:47 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:30:47 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 00:32:47 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/upload.php on line 4
+[24-Jul-2020 00:32:50 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 10
+[24-Jul-2020 00:32:50 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:32:50 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 00:34:26 Asia/Jakarta] PHP Notice:  Undefined variable: id_pelanggar in /home/ashabul2/public_html/admin/TampilPelanggaran.php on line 204
+[24-Jul-2020 00:34:30 Asia/Jakarta] PHP Notice:  Undefined index: id_admin in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 10
+[24-Jul-2020 00:34:30 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:34:30 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 00:34:39 Asia/Jakarta] PHP Notice:  Undefined index: id_admin in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 10
+[24-Jul-2020 00:34:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:34:39 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 00:36:49 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 10
+[24-Jul-2020 00:36:49 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:36:49 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 00:36:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:36:52 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPelanggaran.php on line 12
+[24-Jul-2020 00:36:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:36:52 Asia/Jakarta] PHP Notice:  Undefined variable: id_pelanggar in /home/ashabul2/public_html/admin/TampilPelanggaran.php on line 204
+[24-Jul-2020 00:36:54 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:36:54 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 12
+[24-Jul-2020 00:36:54 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:36:54 Asia/Jakarta] PHP Notice:  Undefined variable: id_abs in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 196
+[24-Jul-2020 00:36:56 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 10
+[24-Jul-2020 00:36:56 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:36:56 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 00:36:59 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:36:59 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 12
+[24-Jul-2020 00:36:59 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:36:59 Asia/Jakarta] PHP Notice:  Undefined variable: id_abs in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 196
+[24-Jul-2020 00:37:01 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:37:01 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 10
+[24-Jul-2020 00:37:08 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 10
+[24-Jul-2020 00:37:08 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:37:08 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 00:38:47 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 10
+[24-Jul-2020 00:38:47 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:38:47 Asia/Jakarta] PHP Notice:  Undefined index: nama_santri in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 13
+[24-Jul-2020 00:39:38 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 10
+[24-Jul-2020 00:39:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:39:38 Asia/Jakarta] PHP Notice:  Undefined index: nama_santri in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 13
+[24-Jul-2020 00:40:08 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:40:08 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 10
+[24-Jul-2020 00:40:14 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 10
+[24-Jul-2020 00:40:14 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:40:14 Asia/Jakarta] PHP Notice:  Undefined index: nama_santri in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 13
+[24-Jul-2020 00:40:32 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 10
+[24-Jul-2020 00:40:32 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:40:32 Asia/Jakarta] PHP Notice:  Undefined index: nama_santri in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 13
+[24-Jul-2020 00:41:11 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 15
+[24-Jul-2020 00:41:57 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 00:42:24 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 00:42:26 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 00:42:27 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 00:42:34 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 00:42:42 Asia/Jakarta] PHP Notice:  Undefined variable: id_abs in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 196
+[24-Jul-2020 00:42:44 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 00:44:32 Asia/Jakarta] PHP Notice:  Undefined variable: id_perizinan in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 00:44:32 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:44:32 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 00:44:54 Asia/Jakarta] PHP Notice:  Undefined variable: id_perizinan in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 00:44:54 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:44:54 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 00:45:54 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/view.php on line 5
+[24-Jul-2020 00:45:54 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/view.php on line 26
+[24-Jul-2020 00:45:58 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/view.php on line 5
+[24-Jul-2020 00:45:58 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/view.php on line 26
+[24-Jul-2020 00:46:25 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/view.php on line 5
+[24-Jul-2020 00:46:25 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/view.php on line 26
+[24-Jul-2020 00:46:26 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/view.php on line 5
+[24-Jul-2020 00:46:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/view.php on line 26
+[24-Jul-2020 00:47:44 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/view.php on line 5
+[24-Jul-2020 00:47:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/view.php on line 26
+[24-Jul-2020 00:47:54 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/view.php on line 5
+[24-Jul-2020 00:47:54 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/view.php on line 26
+[24-Jul-2020 00:47:59 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/view.php on line 5
+[24-Jul-2020 00:47:59 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/view.php on line 26
+[24-Jul-2020 00:48:43 Asia/Jakarta] PHP Notice:  Undefined index: id_santri in /home/ashabul2/public_html/admin/view.php on line 5
+[24-Jul-2020 00:48:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/view.php on line 26
+[24-Jul-2020 00:49:09 Asia/Jakarta] PHP Notice:  Undefined index: id_perizinan in /home/ashabul2/public_html/admin/view.php on line 5
+[24-Jul-2020 00:49:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/view.php on line 26
+[24-Jul-2020 00:49:10 Asia/Jakarta] PHP Notice:  Undefined index: id_perizinan in /home/ashabul2/public_html/admin/view.php on line 5
+[24-Jul-2020 00:49:10 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/view.php on line 26
+[24-Jul-2020 00:49:34 Asia/Jakarta] PHP Notice:  Undefined index: id_perizinan in /home/ashabul2/public_html/admin/view.php on line 5
+[24-Jul-2020 00:49:34 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/view.php on line 26
+[24-Jul-2020 00:49:36 Asia/Jakarta] PHP Notice:  Undefined index: id_perizinan in /home/ashabul2/public_html/admin/view.php on line 5
+[24-Jul-2020 00:49:36 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/view.php on line 26
+[24-Jul-2020 00:50:03 Asia/Jakarta] PHP Notice:  Undefined index: id_perizinan in /home/ashabul2/public_html/admin/view.php on line 5
+[24-Jul-2020 00:50:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/view.php on line 26
+[24-Jul-2020 00:50:19 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/upload.php on line 4
+[24-Jul-2020 00:50:19 Asia/Jakarta] PHP Warning:  move_uploaded_file(uploads/70548-1731710143.pdf): failed to open stream: No such file or directory in /home/ashabul2/public_html/admin/upload.php on line 25
+[24-Jul-2020 00:50:19 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpAlZe0h' to 'uploads/70548-1731710143.pdf' in /home/ashabul2/public_html/admin/upload.php on line 25
+[24-Jul-2020 00:50:21 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 10
+[24-Jul-2020 00:50:21 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:50:21 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 00:50:49 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 10
+[24-Jul-2020 00:50:49 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:50:49 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 00:56:13 Asia/Jakarta] PHP Notice:  Undefined index: cid in /home/ashabul2/public_html/admin/upload.php on line 4
+[24-Jul-2020 00:56:15 Asia/Jakarta] PHP Notice:  Undefined index: id_admin in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 10
+[24-Jul-2020 00:56:15 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:56:15 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 00:56:50 Asia/Jakarta] PHP Notice:  Undefined index: id_admin in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 10
+[24-Jul-2020 00:56:50 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:56:50 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 00:56:57 Asia/Jakarta] PHP Notice:  Undefined index: id_admin in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 10
+[24-Jul-2020 00:56:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:56:57 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 00:57:11 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:57:11 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/Edit_datasantrinew.php on line 10
+[24-Jul-2020 00:57:19 Asia/Jakarta] PHP Notice:  Undefined index: id_admin in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 10
+[24-Jul-2020 00:57:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:57:19 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 00:57:21 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:57:21 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 12
+[24-Jul-2020 00:57:21 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:57:21 Asia/Jakarta] PHP Notice:  Undefined variable: id_abs in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 196
+[24-Jul-2020 00:57:49 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:57:49 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 12
+[24-Jul-2020 00:57:49 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:57:49 Asia/Jakarta] PHP Notice:  Undefined variable: id_abs in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 196
+[24-Jul-2020 00:58:59 Asia/Jakarta] PHP Notice:  Undefined index: id_admin in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 10
+[24-Jul-2020 00:58:59 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:58:59 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 00:59:01 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:59:01 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 12
+[24-Jul-2020 00:59:01 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:59:01 Asia/Jakarta] PHP Notice:  Undefined variable: id_abs in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 196
+[24-Jul-2020 00:59:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:59:03 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPelanggaran.php on line 12
+[24-Jul-2020 00:59:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:59:03 Asia/Jakarta] PHP Notice:  Undefined variable: id_pelanggar in /home/ashabul2/public_html/admin/TampilPelanggaran.php on line 204
+[24-Jul-2020 00:59:05 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:59:05 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 12
+[24-Jul-2020 00:59:05 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:59:05 Asia/Jakarta] PHP Notice:  Undefined variable: id_pembayar in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 196
+[24-Jul-2020 00:59:05 Asia/Jakarta] PHP Notice:  Undefined variable: id_santri in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 196
+[24-Jul-2020 00:59:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:59:07 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilRaportRamadhan.php on line 12
+[24-Jul-2020 00:59:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:59:07 Asia/Jakarta] PHP Notice:  Undefined variable: id_raportramadhan in /home/ashabul2/public_html/admin/TampilRaportRamadhan.php on line 200
+[24-Jul-2020 00:59:36 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[24-Jul-2020 00:59:46 Asia/Jakarta] PHP Notice:  Undefined variable: id_pelanggar in /home/ashabul2/public_html/admin/TampilPelanggaran.php on line 204
+[24-Jul-2020 00:59:47 Asia/Jakarta] PHP Notice:  Undefined variable: id_pelanggar in /home/ashabul2/public_html/admin/TampilPelanggaran.php on line 204
+[24-Jul-2020 00:59:48 Asia/Jakarta] PHP Notice:  Undefined variable: id_abs in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 196
+[24-Jul-2020 00:59:50 Asia/Jakarta] PHP Notice:  Undefined index: id_admin in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 10
+[24-Jul-2020 00:59:50 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 00:59:50 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 01:01:26 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 01:01:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 01:01:26 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 01:01:26 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 61
+[24-Jul-2020 01:01:26 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 64
+[24-Jul-2020 01:01:26 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 67
+[24-Jul-2020 01:01:26 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 70
+[24-Jul-2020 01:01:26 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 73
+[24-Jul-2020 01:01:26 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 76
+[24-Jul-2020 01:01:45 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 01:01:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 01:01:45 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 01:01:45 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 61
+[24-Jul-2020 01:01:45 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 64
+[24-Jul-2020 01:01:45 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 67
+[24-Jul-2020 01:01:45 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 70
+[24-Jul-2020 01:01:45 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 73
+[24-Jul-2020 01:01:45 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 76
+[24-Jul-2020 01:01:45 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 01:01:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ashabul2/public_html/admin/functions.php on line 12
+[24-Jul-2020 01:01:45 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 12
+[24-Jul-2020 01:01:45 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 61
+[24-Jul-2020 01:01:45 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 64
+[24-Jul-2020 01:01:45 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 67
+[24-Jul-2020 01:01:45 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 70
+[24-Jul-2020 01:01:45 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 73
+[24-Jul-2020 01:01:45 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 76
+[24-Jul-2020 01:04:24 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 61
+[24-Jul-2020 01:04:24 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 64
+[24-Jul-2020 01:04:24 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 67
+[24-Jul-2020 01:04:24 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 70
+[24-Jul-2020 01:04:24 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 73
+[24-Jul-2020 01:04:24 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/ashabul2/public_html/admin/TampilPerizinan.php on line 76
+[24-Jul-2020 01:06:37 Asia/Jakarta] PHP Notice:  Undefined variable: id_abs in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 196
+[24-Jul-2020 13:37:45 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 45
+[24-Jul-2020 13:37:45 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/ashabul2/public_html/admin/includes/navbar.php on line 126
+[24-Jul-2020 13:38:00 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[24-Jul-2020 13:44:33 Asia/Jakarta] PHP Notice:  Undefined variable: id_pembayar in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 196
+[24-Jul-2020 13:44:33 Asia/Jakarta] PHP Notice:  Undefined variable: id_santri in /home/ashabul2/public_html/admin/TampilPembayaran.php on line 196
+[24-Jul-2020 13:59:26 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[24-Jul-2020 14:05:43 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[24-Jul-2020 19:17:39 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[24-Jul-2020 19:19:22 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[24-Jul-2020 19:19:44 Asia/Jakarta] PHP Notice:  Undefined variable: id_abs in /home/ashabul2/public_html/admin/TampilAbsensi.php on line 239
+[24-Jul-2020 19:19:45 Asia/Jakarta] PHP Notice:  Undefined variable: id_pelanggar in /home/ashabul2/public_html/admin/TampilPelanggaran.php on line 228
+[24-Jul-2020 19:31:05 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[24-Jul-2020 19:34:01 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/ashabul2/public_html/admin/security.php on line 13
+[24-Jul-2020 19:34:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/ashabul2/public_html/admin/datasantricoba.php on line 148
