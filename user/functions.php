@@ -1,16 +1,17 @@
 <?php
-$conn= mysqli_connect("localhost","ashabul2_sipak","sipak_ashabul2","ashabul2_sipak");
+$conn = mysqli_connect("localhost", "root", "", "db_askaf");
 
-if(!$conn){
-    die('Kondisi Error : '.mysqli_connect_errno().' - '.mysqli_connect_error());
+if (!$conn) {
+    die('Kondisi Error : ' . mysqli_connect_errno() . ' - ' . mysqli_connect_error());
 }
 
-function query($query_kedua){
+function query($query_kedua)
+{
     global $conn;
-    $result=mysqli_query($conn,$query_kedua);
+    $result = mysqli_query($conn, $query_kedua);
     $rows = [];
-    while($row = mysqli_fetch_assoc($result)){
-        $rows[]=$row;
+    while ($row = mysqli_fetch_assoc($result)) {
+        $rows[] = $row;
     }
 
     return $rows;
@@ -19,10 +20,11 @@ function query($query_kedua){
 
 /////////////////////////////////////////////////////////////////
 //INPUT SANTRI
-function input_santri($data){
+function input_santri($data)
+{
     global $conn;
 
-    $nama_santri            = htmlspecialchars($_POST['nama_santri']);  
+    $nama_santri            = htmlspecialchars($_POST['nama_santri']);
     $emailsantri                  = htmlspecialchars($_POST['emailsantri']);
     $jeniskelamin           = htmlspecialchars($_POST['jeniskelamin']);
     $tempatlahir            = htmlspecialchars($_POST['tempatlahir ']);
@@ -44,11 +46,12 @@ function input_santri($data){
 
 
     $query          = "INSERT INTO santri values ('', '$nama_santri', '$email', '$jeniskelamin', '$tempatlahir', '$tanggallahir', '$no_ktp', '$perguruan_tinggi', '$no_hp', '$alamat', '$nama_ayah', '$tempat_tgllahir_ayah', '$no_ktp_ayah', '$alamat_ayah', '$no_hp_ayah', '$nama_ibu', '$tempat_tgllahir_ibu', '$no_ktp_ibu', '$alamat_ibu', '$no_hp_ibu')";
-    mysqli_query($conn,$query);
+    mysqli_query($conn, $query);
     return mysqli_affected_rows($conn);
 }
 
-function input_perizinan($data){
+function input_perizinan($data)
+{
     global $conn;
     $id             = htmlspecialchars($_POST['id']);
     $tanggalizin    = htmlspecialchars($_POST['tanggalizin']);
@@ -65,11 +68,12 @@ function input_perizinan($data){
 
     $query          = "INSERT INTO perizinan values ('','$id', '$tanggalizin', '$tanggalpulang', '$nama_penjemput', '$status', '$keterangan', '$filesurat')";
 
-    mysqli_query($conn,$query);
+    mysqli_query($conn, $query);
     return mysqli_affected_rows($conn);
 }
 
-function input_dataabsen($data){
+function input_dataabsen($data)
+{
     global $conn;
     $id             = htmlspecialchars($_POST['id']);
     $tanggal        = htmlspecialchars($_POST['tanggal']);
@@ -78,11 +82,12 @@ function input_dataabsen($data){
     $izin           = htmlspecialchars($_POST['izin']);
     $query          = "INSERT INTO absen values ('', '$id', '$tanggal', '$alfa', '$sakit', '$izin')";
 
-    mysqli_query($conn,$query);
+    mysqli_query($conn, $query);
     return mysqli_affected_rows($conn);
 }
 
-function input_datapelanggaran($data){
+function input_datapelanggaran($data)
+{
     global $conn;
     $id             = htmlspecialchars($_POST['id']);
     $nama_santri    = htmlspecialchars($_POST['nama_santri']);
@@ -92,35 +97,37 @@ function input_datapelanggaran($data){
     $keterangan     = htmlspecialchars($_POST['keterangan']);
     $query          = "INSERT INTO pelanggaran values ('', '$id', '$nama_santri', '$nama_ayah', '$pelanggaran', '$tindakan', '$keterangan')";
 
-    mysqli_query($conn,$query);
+    mysqli_query($conn, $query);
     return mysqli_affected_rows($conn);
 }
 
-function input_datapembayaran($data){
+function input_datapembayaran($data)
+{
     global $conn;
     $id             = htmlspecialchars($_POST['id']);
-    $nama_admin     = htmlspecialchars($_POST['nama_admin']);    
+    $nama_admin     = htmlspecialchars($_POST['nama_admin']);
     $bulan          = htmlspecialchars($_POST['bulan']);
     $nominal        = htmlspecialchars($_POST['nominal']);
     $terbayar       = htmlspecialchars($_POST['terbayar']);
-    $status         = htmlspecialchars($_POST['status']);    
+    $status         = htmlspecialchars($_POST['status']);
     $query          = "INSERT INTO pembayaran values ('', '$id', '$nama_admin', now(), now(), '$bulan', '$nominal', '$terbayar', '$status')";
 
-    mysqli_query($conn,$query);
+    mysqli_query($conn, $query);
     return mysqli_affected_rows($conn);
 }
 
-function input_dataraportramadhan($data){
+function input_dataraportramadhan($data)
+{
     global $conn;
     $id             = htmlspecialchars($_POST['id']);
-    $nama_santri    = htmlspecialchars($_POST['nama_santri']);    
+    $nama_santri    = htmlspecialchars($_POST['nama_santri']);
     $kegiatan       = htmlspecialchars($_POST['kegiatan']);
     $alfa           = htmlspecialchars($_POST['alfa']);
     $izin           = htmlspecialchars($_POST['izin']);
     $sakit          = htmlspecialchars($_POST['sakit']);
     $query          = "INSERT INTO raport_ramadhan values ('', '$id', '$nama_santri', '$kegiatan', '$alfa', '$izin', '$sakit')";
 
-    mysqli_query($conn,$query);
+    mysqli_query($conn, $query);
     return mysqli_affected_rows($conn);
 }
 
@@ -129,12 +136,13 @@ function input_dataraportramadhan($data){
 /////////////////////////////////////////////////////////////
 
 //EDIT SANTRI
-function edit_datasantri($data){
+function edit_datasantri($data)
+{
     global $conn;
     $id     = htmlspecialchars($_GET['id']);
     var_dump($id);
 
-    $nama_santri            = htmlspecialchars($_POST['nama_santri']);  
+    $nama_santri            = htmlspecialchars($_POST['nama_santri']);
     $jeniskelamin           = htmlspecialchars($_POST['jeniskelamin']);
     $tempatlahir            = htmlspecialchars($_POST['tempatlahir ']);
     $tanggallahir           = htmlspecialchars($_POST['tanggallahir']);
@@ -153,7 +161,7 @@ function edit_datasantri($data){
     $alamat_ibu             = htmlspecialchars($_POST['alamat_ibu']);
     $no_hp_ibu              = htmlspecialchars($_POST['no_hp_ibu']);
 
-    $query="update santri set
+    $query = "update santri set
     nama_santri='$nama_santri', 
     jeniskelamin='$jeniskelamin', 
     tempatlahir'='$tempatlahir', 
@@ -173,17 +181,16 @@ function edit_datasantri($data){
     alamat_ibu='$alamat_ibu', 
     no_hp_ibu='$no_hp_ibu'
     where id_santri='$id' ";
-    mysqli_query($conn,$query);
+    mysqli_query($conn, $query);
     return mysqli_affected_rows($conn);
 
-    
-    if(isset($_POST['simpan'])){
 
-    }else{
-
+    if (isset($_POST['simpan'])) {
+    } else {
     }
 }
-function edit_dataperizinan($data){
+function edit_dataperizinan($data)
+{
     global $conn;
     $id             = htmlspecialchars($_GET['id']);
     $tanggalizin    = htmlspecialchars($_POST['tanggalizin']);
@@ -193,7 +200,7 @@ function edit_dataperizinan($data){
     $keterangan     = htmlspecialchars($_POST['keterangan']);
     $filesurat      = htmlspecialchars($_POST['filesurat']);
 
-    $query="update perizinan set
+    $query = "update perizinan set
     tanggalizin='$tanggalizin',
     tanggalpulang='$tanggalpulang',
     dijemput='$dijemput', 
@@ -201,18 +208,17 @@ function edit_dataperizinan($data){
     keterangan='$keterangan', 
     filesurat='$filesurat'
     where id_perizinan='$id' ";
-    mysqli_query($conn,$query);
+    mysqli_query($conn, $query);
     return mysqli_affected_rows($conn);
 
-    
-    if(isset($_POST['simpan'])){
 
-    }else{
-
+    if (isset($_POST['simpan'])) {
+    } else {
     }
 }
 
-function edit_dataabsen($data){
+function edit_dataabsen($data)
+{
     global $conn;
     $id         = htmlspecialchars($_GET['id']);
     $tanggal    = htmlspecialchars($_POST['tanggal']);
@@ -220,26 +226,25 @@ function edit_dataabsen($data){
     $sakit      = htmlspecialchars($_POST['sakit']);
     $izin       = htmlspecialchars($_POST['izin']);
 
-    $query="UPDATE `absen` SET `tanggal`='$tanggal',`alfa`='$alfa',`sakit`='$sakit',`izin`='$izin' WHERE `id_absen`=$id ";
-    mysqli_query($conn,$query);
+    $query = "UPDATE `absen` SET `tanggal`='$tanggal',`alfa`='$alfa',`sakit`='$sakit',`izin`='$izin' WHERE `id_absen`=$id ";
+    mysqli_query($conn, $query);
     return mysqli_affected_rows($conn);
 
-    
-    if(isset($_POST['simpan'])){
 
-    }else{
-
+    if (isset($_POST['simpan'])) {
+    } else {
     }
 }
-function edit_datapelanggaran($data){
+function edit_datapelanggaran($data)
+{
     global $conn;
     $id             = htmlspecialchars($_GET['id']);
     $nama_santri    = htmlspecialchars($_POST['nama_santri']);
-    $nama_ayah      = htmlspecialchars($_POST['nama_ayah']);    
+    $nama_ayah      = htmlspecialchars($_POST['nama_ayah']);
     $pelanggaran    = htmlspecialchars($_POST['pelanggaran']);
     $tindakan       = htmlspecialchars($_POST['tindakan']);
     $keterangan     = htmlspecialchars($_POST['keterangan']);
-    $query="update pelanggaran set 
+    $query = "update pelanggaran set 
 
     nama_santri='$nama_santri',
     nama_ayah='$nama_ayah',
@@ -248,17 +253,16 @@ function edit_datapelanggaran($data){
     keterangan='$keterangan'
 
     where id_pelanggaran='$id' ";
-    mysqli_query($conn,$query);
+    mysqli_query($conn, $query);
     return mysqli_affected_rows($conn);
 
-    
-    if(isset($_POST['simpan'])){
 
-    }else{
-
+    if (isset($_POST['simpan'])) {
+    } else {
     }
 }
-function edit_datapembayaran($data){
+function edit_datapembayaran($data)
+{
     global $conn;
     $id             = htmlspecialchars($_GET['id']);
     $nama_admin     = htmlspecialchars($_POST['nama_admin']);
@@ -268,7 +272,7 @@ function edit_datapembayaran($data){
     $nominal        = htmlspecialchars($_POST['nominal']);
     $terbayar       = htmlspecialchars($_POST['terbayar']);
     $status         = htmlspecialchars($_POST['status']);
-    $query="update pembayaran set
+    $query = "update pembayaran set
   
     nama_admin='$nama_admin',
     tanggal='$tanggal',
@@ -279,26 +283,25 @@ function edit_datapembayaran($data){
     status='$status'
 
     where id_pembayaran='$id' ";
-    mysqli_query($conn,$query);
+    mysqli_query($conn, $query);
     return mysqli_affected_rows($conn);
 
-    
-    if(isset($_POST['simpan'])){
 
-    }else{
-
+    if (isset($_POST['simpan'])) {
+    } else {
     }
 }
 
-function edit_dataraportramadhan($data){
+function edit_dataraportramadhan($data)
+{
     global $conn;
     $id             = htmlspecialchars($_GET['id']);
-    $nama_santri    = htmlspecialchars($_POST['nama_santri']);    
+    $nama_santri    = htmlspecialchars($_POST['nama_santri']);
     $kegiatan       = htmlspecialchars($_POST['kegiatan']);
     $alfa           = htmlspecialchars($_POST['alfa']);
     $izin           = htmlspecialchars($_POST['izin']);
     $sakit          = htmlspecialchars($_POST['sakit']);
-    $query="update raport_ramadhan set
+    $query = "update raport_ramadhan set
 
     
     nama_santri='$nama_santri',
@@ -308,49 +311,54 @@ function edit_dataraportramadhan($data){
     sakit='$sakit'
 
     where id_raport='$id' ";
-    mysqli_query($conn,$query);
+    mysqli_query($conn, $query);
     return mysqli_affected_rows($conn);
 
-    
-    if(isset($_POST['simpan'])){
 
-    }else{
-
+    if (isset($_POST['simpan'])) {
+    } else {
     }
 }
-function hapus_dataabsen($id){
+function hapus_dataabsen($id)
+{
     global $conn;
-    mysqli_query($conn,"DELETE FROM absen WHERE id_absen=$id");
+    mysqli_query($conn, "DELETE FROM absen WHERE id_absen=$id");
     return mysqli_affected_rows($conn);
 }
-function hapus_dataperizinan($id){
+function hapus_dataperizinan($id)
+{
     global $conn;
-    mysqli_query($conn,"DELETE FROM perizinan WHERE id_perizinan=$id");
+    mysqli_query($conn, "DELETE FROM perizinan WHERE id_perizinan=$id");
     return mysqli_affected_rows($conn);
 }
-function hapus_datapelanggaran($id){
+function hapus_datapelanggaran($id)
+{
     global $conn;
-    mysqli_query($conn,"DELETE FROM pelanggaran WHERE id_pelanggaran=$id");
+    mysqli_query($conn, "DELETE FROM pelanggaran WHERE id_pelanggaran=$id");
     return mysqli_affected_rows($conn);
 }
-function hapus_datapembayaran($id){
+function hapus_datapembayaran($id)
+{
     global $conn;
-    mysqli_query($conn,"DELETE FROM pembayaran WHERE id_pembayaran=$id");
+    mysqli_query($conn, "DELETE FROM pembayaran WHERE id_pembayaran=$id");
     return mysqli_affected_rows($conn);
 }
-function hapus_admin($id){
+function hapus_admin($id)
+{
     global $conn;
-    mysqli_query($conn,"DELETE FROM admin WHERE id_admin=$id");
+    mysqli_query($conn, "DELETE FROM admin WHERE id_admin=$id");
     return mysqli_affected_rows($conn);
 }
-function hapus_register($id){
+function hapus_register($id)
+{
     global $conn;
-    mysqli_query($conn,"DELETE FROM register WHERE id_register=$id");
+    mysqli_query($conn, "DELETE FROM register WHERE id_register=$id");
     return mysqli_affected_rows($conn);
 }
-function hapus_dataraportramadhan($id){
+function hapus_dataraportramadhan($id)
+{
     global $conn;
-    mysqli_query($conn,"DELETE FROM raport_ramadhan WHERE id_raport=$id");
+    mysqli_query($conn, "DELETE FROM raport_ramadhan WHERE id_raport=$id");
     return mysqli_affected_rows($conn);
 }
 
@@ -370,14 +378,14 @@ function hapus_santri($id)
     mysqli_query($conn, "DELETE FROM raport_ramadhan WHERE id_santri = '$id'");
 
     // hapus pengguna
-    mysqli_query($conn, "DELETE FROM santri WHERE id_santri = '$id'");    
-
+    mysqli_query($conn, "DELETE FROM santri WHERE id_santri = '$id'");
 }
 
 
 
 
-function upload(){
+function upload()
+{
     $nama_file = $_FILES['photo']['name'];
     $ukuran_file = $_FILES['photo']['size'];
     $error = $_FILES['photo']['error'];
@@ -405,7 +413,7 @@ function upload(){
     }
     //cek kapasitas file yang diupload dala bentuk byte 1 MB = 1000000 Byte
     if ($ukuran_file > 10000000) {
-        echo"
+        echo "
         <script>
         alert('Ukuran file terlalu besar');
         </script>
@@ -417,10 +425,8 @@ function upload(){
     $namafilebaru .= ".";
     $namafilebaru .= $pecah_gambar;
 
-    move_uploaded_file($file_tmp, 'img/'.$namafilebaru);
+    move_uploaded_file($file_tmp, 'img/' . $namafilebaru);
 
     //mereturn nama file agar masuk ke $gambar == upload()
     return $namafilebaru;
 }
-
-?>

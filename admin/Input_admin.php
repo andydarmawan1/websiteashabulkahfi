@@ -1,23 +1,22 @@
 <?php
 // session_start();
 include('security.php');
-include('includes/header.php'); 
-include('includes/navbar.php'); 
+include('includes/header.php');
+include('includes/navbar.php');
 require 'functions.php';
 
-if(isset($_POST['simpan']))
-{
-    //cek sukses data ditambah menggunakan function tambah pada functions.php
+if (isset($_POST['simpan'])) {
+  //cek sukses data ditambah menggunakan function tambah pada functions.php
 
   //cek sukses data ditambah menggunakan function tambah pada functions.php
-  if(input_admin($_POST)>0){
-    echo"
+  if (input_admin($_POST) > 0) {
+    echo "
     <script>
     alert('Data berhasil diperbarui!');
     document.location.href='dataadmin.php';
     </script>
     ";
-  }else{
+  } else {
     echo mysqli_error($conn);
   }
 }
@@ -25,7 +24,7 @@ if(isset($_POST['simpan']))
 
 ?>
 <?php
-$connection = mysqli_connect("localhost","ashabul2_sipak","sipak_ashabul2","ashabul2_sipak");
+$connection = mysqli_connect("localhost", "root", "", "db_askaf");
 $query = "SELECT * FROM admin";
 $query_run = mysqli_query($connection, $query);
 ?>
@@ -56,10 +55,10 @@ $query_run = mysqli_query($connection, $query);
         <div class="col-lg-12">
 
           <table align="left">
-            <td  width="700">
+            <td width="700">
               <form action="#" class="inner-login" method="post" enctype="multipart/form-data">
 
-              </td>
+            </td>
             </tr>
             <tr>
               <td>
@@ -71,7 +70,7 @@ $query_run = mysqli_query($connection, $query);
                 </div>
               </td>
             </tr>
-                        <tr>
+            <tr>
               <td>
                 <div class="form-group row">
                   <label for="inputPassword" class="col-md-6 col-form-label">Email</label>
@@ -81,7 +80,7 @@ $query_run = mysqli_query($connection, $query);
                 </div>
               </td>
             </tr>
-                                    <tr>
+            <tr>
               <td>
                 <div class="form-group row">
                   <label for="inputPassword" class="col-md-6 col-form-label">Password</label>
@@ -120,17 +119,19 @@ $query_run = mysqli_query($connection, $query);
                   </div>
                 </div>
               </td>
-            </tr>    
+            </tr>
             <td height="100">
-              <input class="btn btn-warning" type="submit" name="simpan" id="simpan" value="Simpan Data" /> <!--untuk menyimpan data-->
-              <input class="btn btn-dark" type="reset" name="reset" id="reset" value="Batal" /></th> <!--untuk me reset data yg sudah di ketik-->
+              <input class="btn btn-warning" type="submit" name="simpan" id="simpan" value="Simpan Data" />
+              <!--untuk menyimpan data-->
+              <input class="btn btn-dark" type="reset" name="reset" id="reset" value="Batal" /></th>
+              <!--untuk me reset data yg sudah di ketik-->
             </td>
-          </form>
+            </form>
         </div>
       </div>
-    </table>
+      </table>
 
-  </div>
+    </div>
 </div>
 </div><!-- /.container-fluid -->
 </section>

@@ -1,7 +1,7 @@
 <?php
 include('security.php');
 // session_start();
-$connection = mysqli_connect("localhost","ashabul2_sipak","sipak_ashabul2","ashabul2_sipak");
+$connection = mysqli_connect("localhost", "root", "", "db_askaf");
 
 if(isset($_POST['login_btn']))
 {
@@ -29,4 +29,3 @@ if(isset($_POST['login_btn']))
     }
     
 }
-?>

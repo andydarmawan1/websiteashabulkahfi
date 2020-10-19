@@ -75,7 +75,7 @@ alert('Mohon isi data dengan benar');
 document.location.href='datasantricoba.php';
 </script>";
       } else {
-        $conn = mysqli_connect("localhost", "ashabul2_sipak", "sipak_ashabul2", "ashabul2_sipak");
+        $conn = mysqli_connect("localhost", "root", "", "db_askaf");
 
         $q = "SELECT * FROM santri WHERE nis like '%$cari%' ";
         $result = mysqli_query($conn, $q);

@@ -1,7 +1,6 @@
 <?php
 include('security.php');
-
-$connection = mysqli_connect("localhost","root","","db_tugasakhir");
+$connection = mysqli_connect("localhost", "root", "", "db_askaf");
 
 if(isset($_POST['registerbtn']))
 {
@@ -341,5 +340,3 @@ if(isset($_POST['edit_dataabsen']))
         header('Location: dataabsen.php');                                                                                                                                        
     }
 }
-
-?>

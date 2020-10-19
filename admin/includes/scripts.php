@@ -19,40 +19,32 @@
   <?php
 
 
-$connection = mysqli_connect("localhost","ashabul2_sipak","sipak_ashabul2","ashabul2_sipak");
+    $connection = mysqli_connect("localhost", "root", "", "db_askaf");
 
-if(isset($_POST['registerbtn']))
-{
-    $username = $_POST['username'];
-    $email = $_POST['email'];
-    $password = $_POST['password'];
-    $confirm_password = $_POST['confirmpassword'];
+    if (isset($_POST['registerbtn'])) {
+        $username = $_POST['username'];
+        $email = $_POST['email'];
+        $password = $_POST['password'];
+        $confirm_password = $_POST['confirmpassword'];
 
-    if($password === $confirm_password)
-    {
-        $query = "INSERT INTO register (username,email,password) VALUES ('$username','$email','$password')";
-        $query_run = mysqli_query($connection, $query);
-    
-        if($query_run)
-        {
-            echo "done";
-            $_SESSION['success'] =  "Admin is Added Successfully";
-            header('Location: dataregister.php');
-        }
-        else 
-        {
-            echo "not done";
-            $_SESSION['status'] =  "Admin is Not Added";
+        if ($password === $confirm_password) {
+            $query = "INSERT INTO register (username,email,password) VALUES ('$username','$email','$password')";
+            $query_run = mysqli_query($connection, $query);
+
+            if ($query_run) {
+                echo "done";
+                $_SESSION['success'] =  "Admin is Added Successfully";
+                header('Location: dataregister.php');
+            } else {
+                echo "not done";
+                $_SESSION['status'] =  "Admin is Not Added";
+                header('Location: dataregister.php');
+            }
+        } else {
+            echo "pass no match";
+            $_SESSION['status'] =  "Password and Confirm Password Does not Match";
             header('Location: dataregister.php');
         }
     }
-    else 
-    {
-        echo "pass no match";
-        $_SESSION['status'] =  "Password and Confirm Password Does not Match";
-        header('Location: dataregister.php');
-    }
 
-}
-
-?>
+    ?>

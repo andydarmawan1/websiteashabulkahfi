@@ -8,7 +8,7 @@ include('includes/navbar.php');
 
 ?>
 <?php
-$connection = mysqli_connect("localhost", "ashabul2_sipak", "sipak_ashabul2", "ashabul2_sipak");
+$connection = mysqli_connect("localhost", "root", "", "db_askaf");
 $query = "SELECT * FROM register";
 $query_run = mysqli_query($connection, $query);
 ?>

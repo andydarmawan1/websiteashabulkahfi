@@ -1,5 +1,5 @@
 <?php
-$conn= mysqli_connect("localhost","ashabul2_sipak","sipak_ashabul2","ashabul2_sipak");
+$conn = mysqli_connect("localhost", "root", "", "db_askaf");
 
 if(!$conn){
     die('Kondisi Error : '.mysqli_connect_errno().' - '.mysqli_connect_error());
@@ -595,7 +595,3 @@ function upload(){
     //mereturn nama file agar masuk ke $gambar == upload()
     return $namafilebaru;
 }
-
-
-
-?>

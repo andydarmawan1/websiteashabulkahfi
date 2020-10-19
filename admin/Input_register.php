@@ -1,23 +1,22 @@
 <?php
 // session_start();
 include('security.php');
-include('includes/header.php'); 
-include('includes/navbar.php'); 
+include('includes/header.php');
+include('includes/navbar.php');
 require 'functions.php';
 
-if(isset($_POST['simpan']))
-{
-    //cek sukses data ditambah menggunakan function tambah pada functions.php
+if (isset($_POST['simpan'])) {
+  //cek sukses data ditambah menggunakan function tambah pada functions.php
 
   //cek sukses data ditambah menggunakan function tambah pada functions.php
-  if(input_register($_POST)>0){
-    echo"
+  if (input_register($_POST) > 0) {
+    echo "
     <script>
     alert('Data berhasil diperbarui!');
     document.location.href='dataregister.php';
     </script>
     ";
-  }else{
+  } else {
     echo mysqli_error($conn);
   }
 }
@@ -25,7 +24,7 @@ if(isset($_POST['simpan']))
 
 ?>
 <?php
-$connection = mysqli_connect("localhost","ashabul2_sipak","sipak_ashabul2","ashabul2_sipak");
+$connection = mysqli_connect("localhost", "root", "", "db_askaf");
 $query = "SELECT * FROM register";
 $query_run = mysqli_query($connection, $query);
 ?>
@@ -56,10 +55,10 @@ $query_run = mysqli_query($connection, $query);
         <div class="col-lg-12">
 
           <table align="left">
-            <td  width="700">
+            <td width="700">
               <form action="#" class="inner-login" method="post" enctype="multipart/form-data">
 
-              </td>
+            </td>
             </tr>
             <tr>
               <td>
@@ -96,25 +95,27 @@ $query_run = mysqli_query($connection, $query);
               <td>
                 <div class="form-group row">
                   <label for="inputPassword" class="col-md-6 col-form-label">Usertype</label>
-                    <div class="col-lg-12">
-                      <select name="usertype" required="">
-                        <option value="user">User</option>
-                        <option value="admin">Admin</option>
-                    </div>
+                  <div class="col-lg-12">
+                    <select name="usertype" required="">
+                      <option value="user">User</option>
+                      <option value="admin">Admin</option>
                   </div>
-                </td>
-              </tr>        
-              <td height="100">
-                <input class="btn btn-warning" type="submit" name="simpan" id="simpan" value="Simpan Data" /> <!--untuk menyimpan data-->
-                <input class="btn btn-dark" type="reset" name="reset" id="reset" value="Batal" /></th> <!--untuk me reset data yg sudah di ketik-->
+                </div>
               </td>
+            </tr>
+            <td height="100">
+              <input class="btn btn-warning" type="submit" name="simpan" id="simpan" value="Simpan Data" />
+              <!--untuk menyimpan data-->
+              <input class="btn btn-dark" type="reset" name="reset" id="reset" value="Batal" /></th>
+              <!--untuk me reset data yg sudah di ketik-->
+            </td>
             </form>
-          </div>
         </div>
+      </div>
       </table>
 
     </div>
-  </div>
+</div>
 </div><!-- /.container-fluid -->
 </section>
 <!-- /.content -->
